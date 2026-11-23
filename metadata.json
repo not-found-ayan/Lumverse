@@ -1,0 +1,6 @@
+{
+  "name": "Lumverse Studio",
+  "description": "Ambient edge-glow, audio-reactive kinetic lyrics, and now-playing overlay studio inspired by trylumn and verci.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
